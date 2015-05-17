@@ -1,9 +1,15 @@
 # reactjs-demo
 A demo of ReactJS with JSX
 
+
+
 This is a demo to go with my ReactJS on the OPI website.
 
-To start:
+
+You can see how it works at:
+http://squarepegsys.github.io/reactjs-demo/
+
+To play around with it locally, run:
 
    > npm install
 
@@ -13,6 +19,8 @@ and then
    > npm start
 
 to look at it.
+
+
 
 The US States in JSON format was fetched from there:
 http://www.tellingmachine.com/post/all-50-states-as-xml-json-csv-xls-files.aspx
